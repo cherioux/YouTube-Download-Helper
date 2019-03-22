@@ -1,21 +1,13 @@
 # YouTube-Download-Helper
-Addon for YouTube-DL. Makes using YouTube-DL easier.
-### Start of File
-## YouTube Download Helper (YtDL-H) Version 2.0 (2.2019.3.15.001)
+Addon for YouTube-DL. Makes using YouTube-DL easier.       ![GitHub version](https://img.shields.io/badge/Version-2.2019.3.15-brightgreen.svg)
+#### Start of File
+### YouTube Download Helper (YtDL-H) Version 2.0 (2.2019.3.15.001)
 (C) Copyright 2016-2019 Stormi.
-### Read First
+### Getting Started
  This is a program that was built to assist you in downloading videos from YouTube and other sites.
  
  This program, which is a bundled combination of two (.exe) program files, is property of Stormi. All rights are reserved.
  
- By downloading this program, you agree to not sell, reverse engineer, reupload, distribute in any other way then providing the official download link, and cannot modifiy the source then sell.
- 
- You agree that this program is for personal use only, and while you can provide people with download links, it must be a link to the official download. You may modifiy the code if you so happen to have the know-how to reverse engineer the source code, but any modifications you make cannot be redistributed.
-  
- If you do decide to make modifications to the program, and want to implement them, you can do so by creating a pull request.
-  
-This program, YtDL-H, is an addon for YouTube-DL. I do not own YouTube-DL, and YouTube-DL is owned by another party. I'm just here to make the experience even easier than it already is.
-
 To run YtDL-H, you must download the binarys from the github page. Place both executables into %windir%, or you can add them to your PATH file. Placing the executables into %windir% makes the experience even better. If you choose to place both binarys into %windir%, you must have YouTube-DL in %windir% also.
 
 For YtDL-H to work properly, you must have YouTube-DL and FFMPEG installed. For the program to work, install YouTube-DL to the Windows directory(%windir%). When you install FFMPEG, the location does not matter. Be sure to note the location, however, as you will need the path to FFMPEG's bin folder when you add FFMPEG to your PATH file.
@@ -58,4 +50,15 @@ It would also be a good idea to create a shortcut to ytdl.exe and the Command Pr
 
 .Ctrl + Alt + Shift + F2: Downloads video, but at the highest avaliable quality. Downloads the videos audio at the highest avaliable quality. Requires FFMPEG. Does not past clipboard content. 
 
-Last updated: March 19th, 2019 at 8:13:52PM.
+
+#### Copyright and eula
+ By downloading this program, you agree to not sell, reverse engineer, reupload, distribute in any other way then providing the official download link, and cannot modifiy the source then sell.
+ 
+ You agree that this program is for personal use only, and while you can provide people with download links, it must be a link to the official download. You may modifiy the code if you so happen to have the know-how to reverse engineer the source code, but any modifications you make cannot be redistributed.
+  
+ If you do decide to make modifications to the program, and want to implement them, you can do so by creating a pull request.
+  
+This program, YtDL-H, is an addon for YouTube-DL. I do not own YouTube-DL, and YouTube-DL is owned by another party. I'm just here to make the experience even easier than it already is.
+
+
+Last updated: March 20th, 2019 at 8:12:57PM.
