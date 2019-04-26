@@ -2,15 +2,20 @@
 Addon for YouTube-DL. Makes using YouTube-DL easier.       ![GitHub version](https://img.shields.io/badge/Version-2.2019.3.15-brightgreen.svg)
 #### Start of File
 ### YouTube Download Helper (YtDL-H) Version 2.0 (2.2019.3.15.001)
-(C) Copyright 2016-2019 Stormi.
+(C) Copyright 2016-2019 DarkuSoft.
 ### Getting Started
- This is a program that was built to assist you in downloading videos from YouTube and other sites.
+ This is an addon for YouTube-dl that was built to assist you in downloading videos easier than with just YouTube-dl. 
  
- This program, which is a bundled combination of two (.exe) program files, is property of Stormi. All rights are reserved.
+ Note that flora.dll is not up for download yet. It is being worked on as an easter egg. It is not required for proper functionality.
  
-To run YtDL-H, you must download the binarys from the github page. Place both executables into %windir%, or you can add them to your PATH file. Placing the executables into %windir% makes the experience even better. If you choose to place both binarys into %windir%, you must have YouTube-DL in %windir% also.
+ This addon, really a program, which is a bundled combination of two (.exe) and one (.dll) program files, is property of DarkuSoft. All rights are reserved.
+ 
+To run YtDL-H, you must download the binarys from the github page. Place both executables into %windir%, or you can add them to your PATH file. You don't have to add flora.dll to %windir% or the PATH, by the way. That's just an easter egg and can be seen by placing flora.dll and ytdl.exe in any folder. Placing the executables into %windir% makes the experience even better. If you choose to place both binarys into %windir%, you must have YouTube-DL in %windir% also.
 
-For YtDL-H to work properly, you must have YouTube-DL and FFMPEG installed. For the program to work, install YouTube-DL to the Windows directory(%windir%). When you install FFMPEG, the location does not matter. Be sure to note the location, however, as you will need the path to FFMPEG's bin folder when you add FFMPEG to your PATH file.
+You don't have to add any of them to the Windows folder or path if you don't want to. It's better to be skeptical of software you download on the internet that to be niave and let your guard down. For it to work, however, you need to at least put ytdl.exe, ytdlreq.exe, youtube-dl.exe and flora.dll in a folder together. Adding them to PATH or the Windows folder is just for convinence, as you don't have to cd to the folder the files are contained in, as you just type the file name and it just works. 
+You can also type 'cmd' into a folder's path (in explorer) and the command interperter will start. Just saying.
+
+For YtDL-H to work properly, you must have YouTube-DL and FFMPEG installed. For the program to work, install YouTube-DL to the Windows directory(%windir%)(or add it to the PATH file..). When you install FFMPEG, the location does not matter. Be sure to note the location, however, as you will need the path to FFMPEG's bin folder when you add FFMPEG to your PATH file.
 
 Once you have installed all 4 components, run the Command Interperter (usually Super Key + X then A, hit yes to the uas prompt.) run the prompt with admin perms, and run 'YouTube-DL -U' (without quotes) to update YouTube-DL to the current version.
 
@@ -22,7 +27,7 @@ This means that you have correctly installed all of the programs. To test if you
 
 Also note, this will work on windows 10 and XP. XP won't work correctly (that's what im typing this on), but it will work nontheless. The only thing that won't work on Windows XP is FFMPEG because one of the dll files that it requires does not exist for Windows XP. Will work fine on Windows 10, however.
 
-Take a few minutes and familiarize yourself with the keybindings and what to type to start the initial program.
+Take a few minutes and familiarize yourself with the keybindings and what to type to start the initial program. Oh yeah, and if you choose to download flora.dll too, and type 'scp' into ytdl.exe, well, just try it. It's not that hard, it's an Opportunity.
 
 ### Usage:
 Before starting YtDL-H, it's generally a good idea to run an admin prompt. That way, YouTube-DL won't have issues with problems like updating.
@@ -54,11 +59,14 @@ It would also be a good idea to create a shortcut to ytdl.exe and the Command Pr
 #### Copyright and eula
  By downloading this program, you agree to not sell, reverse engineer, reupload, distribute in any other way then providing the official download link, and cannot modifiy the source then sell.
  
- You agree that this program is for personal use only, and while you can provide people with download links, it must be a link to the official download. You may modifiy the code if you so happen to have the know-how to reverse engineer the source code, but any modifications you make cannot be redistributed.
+ You agree that this program is for personal use only, and while you can provide people with download links, it must be a link to the official download. You may modifiy the code if you so happen to have the know-how to reverse engineer the source code, but any modifications you make cannot be redistributed, including but not limited to, changes to ytdl.exe, ytdlreq.exe, and flora.dll.
   
  If you do decide to make modifications to the program, and want to implement them, you can do so by creating a pull request.
   
 This program, YtDL-H, is an addon for YouTube-DL. I do not own YouTube-DL, and YouTube-DL is owned by another party. I'm just here to make the experience even easier than it already is.
 
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+I do not condone piracy. Use this for personal use only.
 
 Last updated: March 20th, 2019 at 8:12:57PM.
