@@ -2,7 +2,7 @@
 Addon for YouTube-DL. Makes using YouTube-DL easier.       ![GitHub version](https://img.shields.io/badge/Version-2.2019.3.15-brightgreen.svg)
 #### Start of File
 ### YouTube Download Helper (YtDL-H) Version 2.0 (2.2019.3.15.001)
-(C) Copyright 2016-2019 DarkuSoft.
+(C) Copyright 2016-2019 cherioux.
 ### Getting Started
  This is an addon for YouTube-dl that was built to assist you in downloading videos easier than with just YouTube-dl. 
  
